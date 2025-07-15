@@ -8,7 +8,7 @@ Adelina Gutic, Brett Barnes, Catherine Finegan-Dollak
 <br><br><br>
 This is the repository for the dataset and dataset generator used in the paper "Grounded, or a Good Guesser? A Per-Question Balanced Dataset to Separate Blind from Grounded Models for Embodied Question Answering" 
 
-This tool can be used to build environments in Minecraft from a collection of prebuilt corners dynamically.
+This tool can be used to build environments in Minecraft from a collection of prebuilt corners dynamically. Currently it is capable of generating 891 unique environments.
 
 ## Bibtex
 ```bibtex
