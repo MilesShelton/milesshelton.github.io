@@ -22,7 +22,7 @@ This is the landing page that describes the tools and resources provided in the 
 
 ## Just download the dataset
 
-If you just want the dataset, you can download it [here]()!
+If you just want the dataset, you can download it [here](https://doi.org/10.5281/zenodo.16112260)!
 
 ## Our Modified MineRL client for data collection
 
